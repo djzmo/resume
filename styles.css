@@ -11,6 +11,7 @@ h1 {
 h2 {
     border-left: 5px solid #F44336;
     padding-left: 1rem;
+    font-size: 1.75rem;
 }
 
 h4 {
@@ -19,9 +20,22 @@ h4 {
 }
 
 header, section {
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 .section-stripe {
     background-color: #F9F9F9;
+}
+
+ion-icon {
+    vertical-align: middle;
+}
+
+section {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+ul {
+    margin-bottom: 0.5rem;
 }
