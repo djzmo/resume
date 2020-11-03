@@ -1,17 +1,19 @@
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Asap', sans-serif;
     line-height: 1.4;
 }
 
 h1 {
     border-left: 5px solid #007BFF;
     padding-left: 2rem;
+    color: #007BFF;
 }
 
 h2 {
     border-left: 5px solid #F44336;
     padding-left: 1rem;
     font-size: 1.75rem;
+    color: #F44336;
 }
 
 h4 {
