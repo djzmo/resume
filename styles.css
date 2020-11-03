@@ -21,6 +21,10 @@ h4 {
     margin-bottom: 0;
 }
 
+h5 {
+    color: #007BFF;
+}
+
 header, section {
     padding: 0.5rem;
 }
@@ -34,10 +38,22 @@ ion-icon {
 }
 
 section {
-    padding-top: 1rem;
-    padding-bottom: 0.5rem;
+    padding: 0.5rem;
 }
 
 ul {
     margin-bottom: 0.5rem;
+}
+
+ul li {
+    font-size: 0.95em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.badge-default {
+    border: 0;
+    background-color: #FAFAFA;
 }
